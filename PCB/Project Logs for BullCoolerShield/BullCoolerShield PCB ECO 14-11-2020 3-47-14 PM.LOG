@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L?_Prop1 NewDesignator=L2_Prop1
+Change Component Designator: OldDesignator=L?_Prop2 NewDesignator=L2_Prop2
+Added Member To Class: ClassName=TopSheet Member=Component U3 LM324MX

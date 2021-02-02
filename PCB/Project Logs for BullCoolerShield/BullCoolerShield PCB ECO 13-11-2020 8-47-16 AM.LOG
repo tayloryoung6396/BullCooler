@@ -1,0 +1,554 @@
+Removed Member From Class: ClassName=Sens1 Member=J3_Sens1
+Removed Member From Class: ClassName=Sens2 Member=J3_Sens2
+Removed Member From Class: ClassName=Sens3 Member=J3_Sens3
+Removed Member From Class: ClassName=Sens4 Member=J3_Sens4
+Removed Member From Class: ClassName=Sens5 Member=J3_Sens5
+Removed Member From Class: ClassName=Sens6 Member=J3_Sens6
+Removed Member From Class: ClassName=Sens7 Member=J3_Sens7
+Removed Member From Class: ClassName=Sens8 Member=J3_Sens8
+Removed Member From Class: ClassName=Sens9 Member=J3_Sens9
+Removed Member From Class: ClassName=Sens10 Member=J3_Sens10
+Removed Member From Class: ClassName=Sens11 Member=J3_Sens11
+Change Component Footprint: Designator=C7_Prop1 Old Footprint=CAPC1206(3216)190_N New Footprint=CAPAE137130X163M
+Change Component Footprint: Designator=C7_Prop2 Old Footprint=CAPC1206(3216)190_N New Footprint=CAPAE137130X163M
+Change Component Comment : Designator=C7_Prop1 Old Comment=10uF 50V 1206 New Comment=470uF 50V AuPoly
+Change Component Comment : Designator=C7_Prop2 Old Comment=10uF 50V 1206 New Comment=470uF 50V AuPoly
+Change component parameters: Designator = "C7_Prop1"; Footprint = "CAPAE137130X163M"; UniqueID = "\1TWTXYCXL\QPBTHFEK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22000000pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Style"; Value = "Molded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Construction"; Value = "SMTChip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/11793/0900766b80066cb4-11793194.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "02/2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DCL"; Value = "5.5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DELETED"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DF"; Value = "6%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR"; Value = "0.2ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Failure Rate"; Value = "NotRequired"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation"; Value = "NotRequired"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Spacing (nom)"; Value = "NotRequiredmm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length W/Weld"; Value = "NotRequiredmm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length W/Weld (max)"; Value = "NotRequiredmm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "7343-31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 7.3 x 4.35 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "7343-31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Depth (mm)"; Value = "4.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Diameter (mm)"; Value = "NotRequiredmm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Height (mm)"; Value = "2.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Length (mm)"; Value = "7.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rad Hardened"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Seal"; Value = "NotRequired"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Seated Plane Height"; Value = "NotRequiredmm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+ or -)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Form"; Value = "NotRequired"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7_Prop2"; Footprint = "CAPAE137130X163M"; UniqueID = "\2TWTXYCXL\QPBTHFEK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22000000pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Style"; Value = "Molded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Construction"; Value = "SMTChip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/11793/0900766b80066cb4-11793194.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "02/2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DCL"; Value = "5.5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DELETED"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DF"; Value = "6%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR"; Value = "0.2ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Failure Rate"; Value = "NotRequired"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation"; Value = "NotRequired"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Spacing (nom)"; Value = "NotRequiredmm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length W/Weld"; Value = "NotRequiredmm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length W/Weld (max)"; Value = "NotRequiredmm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "7343-31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 7.3 x 4.35 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "7343-31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Depth (mm)"; Value = "4.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Diameter (mm)"; Value = "NotRequiredmm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Height (mm)"; Value = "2.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Length (mm)"; Value = "7.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rad Hardened"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Seal"; Value = "NotRequired"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Seated Plane Height"; Value = "NotRequiredmm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+ or -)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Form"; Value = "NotRequired"; VariantName = "[No Variations]"
+Added Component: Designator=J3(FP-CON-SMA-EDGE-S-MFG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Conn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.rfsolutions.co.uk/downloads/1498648656DS-CON-EDGE-SMA-4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "RF / Coaxial Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN SMA JACK STR EDGE MNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Url"; Value = "https://forum.upverter.com/uploads/default/original/3X/b/e/be75b907af57498775929d6d9099689c472e0307.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "18GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "RF Solutions Ltd."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CON-SMA-EDGE-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Contacts"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/con-sma-edge-s-rf+solutions-70967450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CONN_JACK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "true"; VariantName = "[No Variations]"
+Added Component: Designator=J12(Zeta433-SM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1_Sens1(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_Sens2(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_Sens3(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_Sens4(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_Sens5(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_Sens6(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_Sens7(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_Sens8(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_Sens9(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_Sens10(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_Sens11(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=J5-4
+Added Pin To Net: NetName=+3V3 Pin=J12-4
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5 Pin=J5-5
+Added Pin To Net: NetName=+5 Pin=P1_Sens1-3
+Added Pin To Net: NetName=+5 Pin=P1_Sens2-3
+Added Pin To Net: NetName=+5 Pin=P1_Sens3-3
+Added Pin To Net: NetName=+5 Pin=P1_Sens4-3
+Added Pin To Net: NetName=+5 Pin=P1_Sens5-3
+Added Pin To Net: NetName=+5 Pin=P1_Sens6-3
+Added Pin To Net: NetName=+5 Pin=P1_Sens7-3
+Added Pin To Net: NetName=+5 Pin=P1_Sens8-3
+Added Pin To Net: NetName=+5 Pin=P1_Sens9-3
+Added Pin To Net: NetName=+5 Pin=P1_Sens10-3
+Added Pin To Net: NetName=+5 Pin=P1_Sens11-3
+Added Pin To Net: NetName=+5 Pin=R1-2
+Added Pin To Net: NetName=+5 Pin=R6_Prop1-2
+Added Pin To Net: NetName=+5 Pin=R6_Prop2-2
+Added Pin To Net: NetName=+5 Pin=U1-4
+Added Pin To Net: NetName=+5 Pin=U2_Prop1-4
+Added Pin To Net: NetName=+5 Pin=U2_Prop2-4
+Added Net: Name=+5
+Added Pin To Net: NetName=+12 Pin=C2-1
+Added Pin To Net: NetName=+12 Pin=C3-2
+Added Pin To Net: NetName=+12 Pin=C5_Prop1-1
+Added Pin To Net: NetName=+12 Pin=C5_Prop2-1
+Added Pin To Net: NetName=+12 Pin=C6_Prop1-2
+Added Pin To Net: NetName=+12 Pin=C6_Prop2-2
+Added Pin To Net: NetName=+12 Pin=C8-1
+Added Pin To Net: NetName=+12 Pin=C9-2
+Added Pin To Net: NetName=+12 Pin=C10-2
+Added Pin To Net: NetName=+12 Pin=C11-2
+Added Pin To Net: NetName=+12 Pin=J5-8
+Added Pin To Net: NetName=+12 Pin=J10-2
+Added Pin To Net: NetName=+12 Pin=R11-2
+Added Pin To Net: NetName=+12 Pin=R13-2
+Added Pin To Net: NetName=+12 Pin=U1-5
+Added Pin To Net: NetName=+12 Pin=U2_Prop1-5
+Added Pin To Net: NetName=+12 Pin=U2_Prop2-5
+Added Pin To Net: NetName=+12 Pin=U3-4
+Added Net: Name=+12
+Added Pin To Net: NetName=AI1 Pin=J6-1
+Added Pin To Net: NetName=AI1 Pin=R9_Sens1-1
+Added Pin To Net: NetName=AI1 Pin=R10_Sens1-2
+Added Net: Name=AI1
+Added Pin To Net: NetName=AI2 Pin=J6-2
+Added Pin To Net: NetName=AI2 Pin=R9_Sens2-1
+Added Pin To Net: NetName=AI2 Pin=R10_Sens2-2
+Added Net: Name=AI2
+Added Pin To Net: NetName=AI3 Pin=J6-3
+Added Pin To Net: NetName=AI3 Pin=R9_Sens3-1
+Added Pin To Net: NetName=AI3 Pin=R10_Sens3-2
+Added Net: Name=AI3
+Added Pin To Net: NetName=AI4 Pin=J6-4
+Added Pin To Net: NetName=AI4 Pin=R9_Sens4-1
+Added Pin To Net: NetName=AI4 Pin=R10_Sens4-2
+Added Net: Name=AI4
+Added Pin To Net: NetName=AI5 Pin=J6-5
+Added Pin To Net: NetName=AI5 Pin=R9_Sens5-1
+Added Pin To Net: NetName=AI5 Pin=R10_Sens5-2
+Added Net: Name=AI5
+Added Pin To Net: NetName=AI6 Pin=J6-6
+Added Pin To Net: NetName=AI6 Pin=R9_Sens6-1
+Added Pin To Net: NetName=AI6 Pin=R10_Sens6-2
+Added Net: Name=AI6
+Added Pin To Net: NetName=AI7 Pin=J6-7
+Added Pin To Net: NetName=AI7 Pin=R9_Sens7-1
+Added Pin To Net: NetName=AI7 Pin=R10_Sens7-2
+Added Net: Name=AI7
+Added Pin To Net: NetName=AI8 Pin=J6-8
+Added Pin To Net: NetName=AI8 Pin=R9_Sens8-1
+Added Pin To Net: NetName=AI8 Pin=R10_Sens8-2
+Added Net: Name=AI8
+Added Pin To Net: NetName=AI9 Pin=J8-1
+Added Pin To Net: NetName=AI9 Pin=R9_Sens9-1
+Added Pin To Net: NetName=AI9 Pin=R10_Sens9-2
+Added Pin To Net: NetName=AI9 Pin=R18-2
+Added Pin To Net: NetName=AI9 Pin=U3-7
+Added Net: Name=AI9
+Added Pin To Net: NetName=AI10 Pin=J8-2
+Added Pin To Net: NetName=AI10 Pin=R9_Sens10-1
+Added Pin To Net: NetName=AI10 Pin=R10_Sens10-2
+Added Pin To Net: NetName=AI10 Pin=R20-2
+Added Pin To Net: NetName=AI10 Pin=U3-8
+Added Net: Name=AI10
+Added Pin To Net: NetName=AI11 Pin=J8-3
+Added Pin To Net: NetName=AI11 Pin=R9_Sens11-1
+Added Pin To Net: NetName=AI11 Pin=R10_Sens11-2
+Added Pin To Net: NetName=AI11 Pin=R16-2
+Added Pin To Net: NetName=AI11 Pin=U3-1
+Added Net: Name=AI11
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5_Prop1-2
+Added Pin To Net: NetName=GND Pin=C5_Prop2-2
+Added Pin To Net: NetName=GND Pin=C6_Prop1-1
+Added Pin To Net: NetName=GND Pin=C6_Prop2-1
+Added Pin To Net: NetName=GND Pin=C7_Prop1-2
+Added Pin To Net: NetName=GND Pin=C7_Prop2-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D4_Prop1-2
+Added Pin To Net: NetName=GND Pin=D4_Prop2-2
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J5-6
+Added Pin To Net: NetName=GND Pin=J5-7
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J11-35
+Added Pin To Net: NetName=GND Pin=J11-36
+Added Pin To Net: NetName=GND Pin=J12-2
+Added Pin To Net: NetName=GND Pin=J12-3
+Added Pin To Net: NetName=GND Pin=P1_Sens1-1
+Added Pin To Net: NetName=GND Pin=P1_Sens2-1
+Added Pin To Net: NetName=GND Pin=P1_Sens3-1
+Added Pin To Net: NetName=GND Pin=P1_Sens4-1
+Added Pin To Net: NetName=GND Pin=P1_Sens5-1
+Added Pin To Net: NetName=GND Pin=P1_Sens6-1
+Added Pin To Net: NetName=GND Pin=P1_Sens7-1
+Added Pin To Net: NetName=GND Pin=P1_Sens8-1
+Added Pin To Net: NetName=GND Pin=P1_Sens9-1
+Added Pin To Net: NetName=GND Pin=P1_Sens10-1
+Added Pin To Net: NetName=GND Pin=P1_Sens11-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2_Prop1-2
+Added Pin To Net: NetName=GND Pin=Q2_Prop2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R8_Prop1-1
+Added Pin To Net: NetName=GND Pin=R8_Prop2-1
+Added Pin To Net: NetName=GND Pin=R10_Sens1-1
+Added Pin To Net: NetName=GND Pin=R10_Sens2-1
+Added Pin To Net: NetName=GND Pin=R10_Sens3-1
+Added Pin To Net: NetName=GND Pin=R10_Sens4-1
+Added Pin To Net: NetName=GND Pin=R10_Sens5-1
+Added Pin To Net: NetName=GND Pin=R10_Sens6-1
+Added Pin To Net: NetName=GND Pin=R10_Sens7-1
+Added Pin To Net: NetName=GND Pin=R10_Sens8-1
+Added Pin To Net: NetName=GND Pin=R10_Sens9-1
+Added Pin To Net: NetName=GND Pin=R10_Sens10-1
+Added Pin To Net: NetName=GND Pin=R10_Sens11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R15_Prop1-1
+Added Pin To Net: NetName=GND Pin=R15_Prop2-1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2_Prop1-1
+Added Pin To Net: NetName=GND Pin=U2_Prop1-1
+Added Pin To Net: NetName=GND Pin=U2_Prop1-2
+Added Pin To Net: NetName=GND Pin=U2_Prop2-1
+Added Pin To Net: NetName=GND Pin=U2_Prop2-1
+Added Pin To Net: NetName=GND Pin=U2_Prop2-2
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO1 Pin=J7-1
+Added Pin To Net: NetName=GPIO1 Pin=J12-7
+Added Net: Name=GPIO1
+Added Pin To Net: NetName=GPIO2 Pin=J4-10
+Added Pin To Net: NetName=GPIO2 Pin=J12-8
+Added Net: Name=GPIO2
+Added Pin To Net: NetName=MISO Pin=J4-6
+Added Pin To Net: NetName=MISO Pin=J12-11
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J4-7
+Added Pin To Net: NetName=MOSI Pin=J12-10
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R3-2
+Added Pin To Net: NetName=NetC1_2 Pin=R4-2
+Added Pin To Net: NetName=NetC1_2 Pin=R5-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-7
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=J1-2
+Added Pin To Net: NetName=NetC4_1 Pin=L1-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC7_Prop1_1 Pin=C7_Prop1-1
+Added Pin To Net: NetName=NetC7_Prop1_1 Pin=J2_Prop1-2
+Added Pin To Net: NetName=NetC7_Prop1_1 Pin=L2_Prop1-2
+Added Net: Name=NetC7_Prop1_1
+Added Pin To Net: NetName=NetC7_Prop2_1 Pin=C7_Prop2-1
+Added Pin To Net: NetName=NetC7_Prop2_1 Pin=J2_Prop2-2
+Added Pin To Net: NetName=NetC7_Prop2_1 Pin=L2_Prop2-2
+Added Net: Name=NetC7_Prop2_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-3
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=L1-1
+Added Pin To Net: NetName=NetD2_1 Pin=U1-6
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_Prop1_1 Pin=D3_Prop1-1
+Added Pin To Net: NetName=NetD3_Prop1_1 Pin=Q2_Prop1-3
+Added Net: Name=NetD3_Prop1_1
+Added Pin To Net: NetName=NetD3_Prop1_2 Pin=D3_Prop1-2
+Added Pin To Net: NetName=NetD3_Prop1_2 Pin=R6_Prop1-1
+Added Net: Name=NetD3_Prop1_2
+Added Pin To Net: NetName=NetD3_Prop2_1 Pin=D3_Prop2-1
+Added Pin To Net: NetName=NetD3_Prop2_1 Pin=Q2_Prop2-3
+Added Net: Name=NetD3_Prop2_1
+Added Pin To Net: NetName=NetD3_Prop2_2 Pin=D3_Prop2-2
+Added Pin To Net: NetName=NetD3_Prop2_2 Pin=R6_Prop2-1
+Added Net: Name=NetD3_Prop2_2
+Added Pin To Net: NetName=NetD4_Prop1_1 Pin=D4_Prop1-1
+Added Pin To Net: NetName=NetD4_Prop1_1 Pin=L2_Prop1-1
+Added Pin To Net: NetName=NetD4_Prop1_1 Pin=U2_Prop1-6
+Added Net: Name=NetD4_Prop1_1
+Added Pin To Net: NetName=NetD4_Prop2_1 Pin=D4_Prop2-1
+Added Pin To Net: NetName=NetD4_Prop2_1 Pin=L2_Prop2-1
+Added Pin To Net: NetName=NetD4_Prop2_1 Pin=U2_Prop2-6
+Added Net: Name=NetD4_Prop2_1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R13-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R14-2
+Added Pin To Net: NetName=NetJ1_1 Pin=U3-3
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=J12-1
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetP1_Sens1_2 Pin=P1_Sens1-2
+Added Pin To Net: NetName=NetP1_Sens1_2 Pin=R9_Sens1-2
+Added Net: Name=NetP1_Sens1_2
+Added Pin To Net: NetName=NetP1_Sens2_2 Pin=P1_Sens2-2
+Added Pin To Net: NetName=NetP1_Sens2_2 Pin=R9_Sens2-2
+Added Net: Name=NetP1_Sens2_2
+Added Pin To Net: NetName=NetP1_Sens3_2 Pin=P1_Sens3-2
+Added Pin To Net: NetName=NetP1_Sens3_2 Pin=R9_Sens3-2
+Added Net: Name=NetP1_Sens3_2
+Added Pin To Net: NetName=NetP1_Sens4_2 Pin=P1_Sens4-2
+Added Pin To Net: NetName=NetP1_Sens4_2 Pin=R9_Sens4-2
+Added Net: Name=NetP1_Sens4_2
+Added Pin To Net: NetName=NetP1_Sens5_2 Pin=P1_Sens5-2
+Added Pin To Net: NetName=NetP1_Sens5_2 Pin=R9_Sens5-2
+Added Net: Name=NetP1_Sens5_2
+Added Pin To Net: NetName=NetP1_Sens6_2 Pin=P1_Sens6-2
+Added Pin To Net: NetName=NetP1_Sens6_2 Pin=R9_Sens6-2
+Added Net: Name=NetP1_Sens6_2
+Added Pin To Net: NetName=NetP1_Sens7_2 Pin=P1_Sens7-2
+Added Pin To Net: NetName=NetP1_Sens7_2 Pin=R9_Sens7-2
+Added Net: Name=NetP1_Sens7_2
+Added Pin To Net: NetName=NetP1_Sens8_2 Pin=P1_Sens8-2
+Added Pin To Net: NetName=NetP1_Sens8_2 Pin=R9_Sens8-2
+Added Net: Name=NetP1_Sens8_2
+Added Pin To Net: NetName=NetP1_Sens9_2 Pin=P1_Sens9-2
+Added Pin To Net: NetName=NetP1_Sens9_2 Pin=R9_Sens9-2
+Added Net: Name=NetP1_Sens9_2
+Added Pin To Net: NetName=NetP1_Sens10_2 Pin=P1_Sens10-2
+Added Pin To Net: NetName=NetP1_Sens10_2 Pin=R9_Sens10-2
+Added Net: Name=NetP1_Sens10_2
+Added Pin To Net: NetName=NetP1_Sens11_2 Pin=P1_Sens11-2
+Added Pin To Net: NetName=NetP1_Sens11_2 Pin=R9_Sens11-2
+Added Net: Name=NetP1_Sens11_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_Prop1_1 Pin=Q2_Prop1-1
+Added Pin To Net: NetName=NetQ2_Prop1_1 Pin=R7_Prop1-2
+Added Net: Name=NetQ2_Prop1_1
+Added Pin To Net: NetName=NetQ2_Prop2_1 Pin=Q2_Prop2-1
+Added Pin To Net: NetName=NetQ2_Prop2_1 Pin=R7_Prop2-2
+Added Net: Name=NetQ2_Prop2_1
+Added Pin To Net: NetName=NetR8_Prop1_2 Pin=R8_Prop1-2
+Added Pin To Net: NetName=NetR8_Prop1_2 Pin=U2_Prop1-7
+Added Net: Name=NetR8_Prop1_2
+Added Pin To Net: NetName=NetR8_Prop2_2 Pin=R8_Prop2-2
+Added Pin To Net: NetName=NetR8_Prop2_2 Pin=U2_Prop2-7
+Added Net: Name=NetR8_Prop2_2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=R17-2
+Added Pin To Net: NetName=NetR16_1 Pin=U3-2
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=R19-2
+Added Pin To Net: NetName=NetR18_1 Pin=U3-6
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=R21-2
+Added Pin To Net: NetName=NetR20_1 Pin=U3-9
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=nIRQ Pin=J4-9
+Added Pin To Net: NetName=nIRQ Pin=J12-5
+Added Net: Name=nIRQ
+Added Pin To Net: NetName=PWM1 Pin=J8-6
+Added Pin To Net: NetName=PWM1 Pin=R7_Prop1-1
+Added Pin To Net: NetName=PWM1 Pin=U2_Prop1-3
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=J8-8
+Added Pin To Net: NetName=PWM2 Pin=R7_Prop2-1
+Added Pin To Net: NetName=PWM2 Pin=U2_Prop2-3
+Added Net: Name=PWM2
+Added Pin To Net: NetName=PWMP Pin=J8-5
+Added Pin To Net: NetName=PWMP Pin=R2-1
+Added Pin To Net: NetName=PWMP Pin=U1-3
+Added Net: Name=PWMP
+Added Pin To Net: NetName=SCLK Pin=J4-5
+Added Pin To Net: NetName=SCLK Pin=J12-9
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SENS1 Pin=J2_Prop1-1
+Added Pin To Net: NetName=SENS1 Pin=R15_Prop1-2
+Added Pin To Net: NetName=SENS1 Pin=U3-5
+Added Net: Name=SENS1
+Added Pin To Net: NetName=SENS2 Pin=J2_Prop2-1
+Added Pin To Net: NetName=SENS2 Pin=R15_Prop2-2
+Added Pin To Net: NetName=SENS2 Pin=U3-10
+Added Net: Name=SENS2
+Added Pin To Net: NetName=SS Pin=J4-8
+Added Pin To Net: NetName=SS Pin=J12-12
+Added Net: Name=SS
+Added Pin To Net: NetName=VoltageSense Pin=J8-4
+Added Pin To Net: NetName=VoltageSense Pin=R11-1
+Added Pin To Net: NetName=VoltageSense Pin=R12-2
+Added Net: Name=VoltageSense
+Added Member To Class: ClassName=TopSheet Member=Component J3 CON-SMA-EDGE-S
+Added Member To Class: ClassName=TopSheet Member=Component J12 Zeta433
+Added Member To Class: ClassName=Sens1 Member=Component P1_Sens1 (P1) Header 3
+Added Member To Class: ClassName=Sens2 Member=Component P1_Sens2 (P1) Header 3
+Added Member To Class: ClassName=Sens3 Member=Component P1_Sens3 (P1) Header 3
+Added Member To Class: ClassName=Sens4 Member=Component P1_Sens4 (P1) Header 3
+Added Member To Class: ClassName=Sens5 Member=Component P1_Sens5 (P1) Header 3
+Added Member To Class: ClassName=Sens6 Member=Component P1_Sens6 (P1) Header 3
+Added Member To Class: ClassName=Sens7 Member=Component P1_Sens7 (P1) Header 3
+Added Member To Class: ClassName=Sens8 Member=Component P1_Sens8 (P1) Header 3
+Added Member To Class: ClassName=Sens9 Member=Component P1_Sens9 (P1) Header 3
+Added Member To Class: ClassName=Sens10 Member=Component P1_Sens10 (P1) Header 3
+Added Member To Class: ClassName=Sens11 Member=Component P1_Sens11 (P1) Header 3
+Added Member To Class: ClassName=HC Member=Wire +12
+Added Member To Class: ClassName=AI[1..8] Member=Element[1]: AI
+Added Member To Class: ClassName=AI[1..8] Member=Element[2]: AI
+Added Member To Class: ClassName=AI[1..8] Member=Element[3]: AI
+Added Member To Class: ClassName=AI[1..8] Member=Element[4]: AI
+Added Member To Class: ClassName=AI[1..8] Member=Element[5]: AI
+Added Member To Class: ClassName=AI[1..8] Member=Element[6]: AI
+Added Member To Class: ClassName=AI[1..8] Member=Element[7]: AI
+Added Member To Class: ClassName=AI[1..8] Member=Element[8]: AI
+Added Member To Class: ClassName=AI[1..8] Member=Element[9]: AI
+Added Member To Class: ClassName=AI[1..8] Member=Element[10]: AI
+Added Member To Class: ClassName=AI[1..8] Member=Element[11]: AI
+Added Member To Class: ClassName=HC Member=Wire GND
+Added Member To Class: ClassName=HC Member=Wire NetC1_2
+Added Member To Class: ClassName=HC Member=Wire NetC4_1
+Added Member To Class: ClassName=HC Member=Wire NetC7_Prop1_1
+Added Member To Class: ClassName=HC Member=Wire NetC7_Prop2_1
+Added Member To Class: ClassName=HC Member=Wire NetD2_1
+Added Member To Class: ClassName=HC Member=Wire NetD4_Prop1_1
+Added Member To Class: ClassName=HC Member=Wire NetD4_Prop2_1
+Added Member To Class: ClassName=HC Member=Wire NetR8_Prop1_2
+Added Member To Class: ClassName=HC Member=Wire NetR8_Prop2_2
+Added Member To Class: ClassName=PWM[1..2] Member=Element[1]: PWM
+Added Member To Class: ClassName=PWM[1..2] Member=Element[2]: PWM
+Added Member To Class: ClassName=SENS[1..2] Member=Element[1]: SENS
+Added Member To Class: ClassName=SENS[1..2] Member=Element[2]: SENS
+Added Room: Name=Sens1
+Added Room: Name=Sens2
+Added Room: Name=Sens3
+Added Room: Name=Sens4
+Added Room: Name=Sens5
+Added Room: Name=Sens6
+Added Room: Name=Sens7
+Added Room: Name=Sens8
+Added Room: Name=Sens9
+Added Room: Name=Sens10
+Added Room: Name=Sens11
+Added Room: Name=TopSheet

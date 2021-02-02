@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [BullCoolerShield.PcbDoc]
+   Generated File[BullCoolerShield.TXT]
+   Generated File[BullCoolerShield.LDP]
+   Generated File[BullCoolerShield.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 4:30:18 PM On 14/11/2020

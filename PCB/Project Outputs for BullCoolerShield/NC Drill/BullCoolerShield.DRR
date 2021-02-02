@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BullCoolerShield.PcbDoc   14/11/2020  4:30:17 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Plane to Power Plane
+ASCII RoundHoles File : BullCoolerShield.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.25mm)                                            Round             57        PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             33        PTH        0.00inch (0.00mm)
+T4      40mil (1.016mm)                                           Round             86        PTH        0.00inch (0.00mm)
+T5      43mil (1.1mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T6      118mil (3mm)                                              Round             4         PTH        0.00inch (0.00mm)
+T7      43mil (1.1mm)                                             Round             8         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              208
+
+Total Processing Time (hh:mm:ss) : 00:00:01

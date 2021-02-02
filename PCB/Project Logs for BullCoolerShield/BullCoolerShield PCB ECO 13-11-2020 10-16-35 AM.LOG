@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=HC Member=GND
+Added Pin To Net: NetName=GND Pin=J4-3
+Change Net Name : Old Net Name=GND New Net Name=AGND
+Added Member To Class: ClassName=HC Member=Wire AGND
+Added Room: Name=Sens1
+Added Room: Name=Sens2
+Added Room: Name=Sens3
+Added Room: Name=Sens4
+Added Room: Name=Sens5
+Added Room: Name=Sens6
+Added Room: Name=Sens7
+Added Room: Name=Sens8
+Added Room: Name=Sens9
+Added Room: Name=Sens10
+Added Room: Name=Sens11
+Added Room: Name=TopSheet
